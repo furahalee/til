@@ -1,0 +1,7 @@
+git command
+*stash
+$git stash 
+$git stash list //display the stash stack
+$git stash pop //restore the lastest stash
+$git stash apply //restore and save the lastest stash
+$git stash drop //delete the lastest stash element
