@@ -7,3 +7,4 @@ $git stash apply //restore and save the lastest stash
 $git stash drop //delete the lastest stash element
 
 $git push -u orign master
+$git reset (commit hash)
